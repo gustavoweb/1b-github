@@ -29,6 +29,12 @@ main{
     float: left;
     background: #fff;
     margin-left: 4.16%;
+    margin-top: 2.5vh;
+    border-radius: 12px;
+}
+.personagem img{
+    height: auto;
+    width: 100%;
 }
 #video{
     width: 100%;
